@@ -10,7 +10,7 @@ function Footer() {
           <div className="footer-col">
             <img src="/logo.png" alt="Q-Age Cred" className="footer-logo" />
             <p className="footer-desc">
-              Especialistas em crédito consignado, empréstimo na conta de luz e crédito pessoal.
+              Especialistas em crédito consignado e crédito pessoal.
               Realizamos seu sonho de forma rápida e segura.
             </p>
           </div>
@@ -29,7 +29,6 @@ function Footer() {
             <h3>Serviços</h3>
             <ul>
               <li><Link to="/servicos">Empréstimo Consignado</Link></li>
-              <li><Link to="/servicos">Crédito na Conta de Luz</Link></li>
               <li><Link to="/servicos">Crédito Pessoal (CNC)</Link></li>
             </ul>
           </div>

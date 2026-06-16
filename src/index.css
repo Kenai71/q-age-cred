@@ -1,10 +1,10 @@
 @import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap');
 
 :root {
-  /* Cores Base - Substitua aqui quando o usuário enviar a paleta final */
-  --primary: #FFC107; /* Amarelo vibrante, comum em financeiras */
-  --primary-hover: #E0A800;
-  --secondary: #0F172A; /* Azul muito escuro, quase preto */
+  /* Cores Base - Atualizadas para um Verde Limpo e Simples */
+  --primary: #10B981; /* Verde esmeralda moderno e limpo */
+  --primary-hover: #059669;
+  --secondary: #0F172A; /* Azul escuro elegante para manter um bom contraste */
   --secondary-light: #1E293B;
   --accent: #25D366; /* Verde WhatsApp */
   --accent-hover: #128C7E;

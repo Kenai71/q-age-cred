@@ -60,9 +60,10 @@ function Home() {
           >
             {/* Placeholder for an illustration or photo */}
             <div className="hero-image-placeholder">
-              <div className="glass-card">
-                <h3>Crédito Aprovado!</h3>
-                <p>R$ 5.000,00</p>
+              <div className="glass-card" style={{ display: 'flex', flexDirection: 'column', alignItems: 'center', gap: '0.5rem' }}>
+                <ShieldCheck size={48} style={{ color: 'var(--secondary)' }} />
+                <h3>Ambiente Seguro</h3>
+                <p style={{ fontSize: '1.25rem', fontWeight: '500' }}>Faça sua Simulação 100% Online</p>
               </div>
             </div>
           </motion.div>

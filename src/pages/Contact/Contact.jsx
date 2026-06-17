@@ -37,7 +37,7 @@ function Contact() {
                   </div>
                   <div>
                     <h3>WhatsApp / Telefone</h3>
-                    <p>(11) 99999-9999</p>
+                    <p>(71) 99908-7669</p>
                   </div>
                 </div>
 
@@ -47,7 +47,7 @@ function Contact() {
                   </div>
                   <div>
                     <h3>E-mail</h3>
-                    <p>contato@qagecred.com.br</p>
+                    <p>grupoinvestflex26@gmail.com</p>
                   </div>
                 </div>
 
@@ -57,7 +57,7 @@ function Contact() {
                   </div>
                   <div>
                     <h3>Endereço</h3>
-                    <p>Av. Paulista, 1000 - São Paulo, SP</p>
+                    <p>Lauro de Freitas Av. Santos Dumont, 1883</p>
                   </div>
                 </div>
 

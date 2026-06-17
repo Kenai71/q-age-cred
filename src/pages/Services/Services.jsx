@@ -84,7 +84,7 @@ function Services() {
                   </div>
                   
                   <a 
-                    href={`https://wa.me/5511999999999?text=${encodeURIComponent(service.whatsappMsg)}`} 
+                    href={`https://wa.me/5571999087669?text=${encodeURIComponent(service.whatsappMsg)}`} 
                     target="_blank" 
                     rel="noreferrer" 
                     className="btn btn-whatsapp service-action-btn"

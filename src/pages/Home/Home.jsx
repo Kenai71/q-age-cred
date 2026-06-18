@@ -39,7 +39,7 @@ function Home() {
               Simule agora pelo WhatsApp de forma rápida e segura!
             </p>
             <div className="hero-buttons">
-              <a href="https://wa.me/5511999999999" target="_blank" rel="noreferrer" className="btn btn-primary">
+              <a href="https://wa.me/5571999087669" target="_blank" rel="noreferrer" className="btn btn-primary">
                 Simular no WhatsApp
               </a>
               <Link to="/servicos" className="btn btn-outline">
@@ -117,7 +117,7 @@ function Home() {
               <div className="service-content">
                 <h3>Empréstimo Consignado</h3>
                 <p>Para Aposentados, Pensionistas do INSS e Servidores Públicos. Desconto direto em folha com as menores taxas.</p>
-                <a href="https://wa.me/5511999999999" target="_blank" rel="noreferrer" className="btn btn-whatsapp">
+                <a href="https://wa.me/5571999087669" target="_blank" rel="noreferrer" className="btn btn-whatsapp">
                   Simular Consignado
                 </a>
               </div>
@@ -134,7 +134,7 @@ function Home() {
               <div className="service-content">
                 <h3>Empréstimo CLT (FGTS)</h3>
                 <p>Antecipe suas parcelas do Saque-Aniversário do FGTS. Dinheiro na conta rápido e sem burocracia.</p>
-                <a href="https://wa.me/5511999999999" target="_blank" rel="noreferrer" className="btn btn-whatsapp">
+                <a href="https://wa.me/5571999087669" target="_blank" rel="noreferrer" className="btn btn-whatsapp">
                   Simular FGTS
                 </a>
               </div>
@@ -151,7 +151,7 @@ function Home() {
               <div className="service-content">
                 <h3>Crédito Pessoal (CNC)</h3>
                 <p>Crédito rápido e fácil com pagamento no carnê ou boleto. Sujeito a análise de crédito.</p>
-                <a href="https://wa.me/5511999999999" target="_blank" rel="noreferrer" className="btn btn-whatsapp">
+                <a href="https://wa.me/5571999087669" target="_blank" rel="noreferrer" className="btn btn-whatsapp">
                   Simular Pessoal
                 </a>
               </div>
@@ -171,7 +171,7 @@ function Home() {
           >
             <h2>Precisando de dinheiro agora?</h2>
             <p>Fale com um de nossos especialistas e descubra quanto você pode liberar hoje mesmo.</p>
-            <a href="https://wa.me/5511999999999" target="_blank" rel="noreferrer" className="btn btn-primary cta-btn">
+            <a href="https://wa.me/5571999087669" target="_blank" rel="noreferrer" className="btn btn-primary cta-btn">
               Falar com Especialista
             </a>
           </motion.div>

@@ -51,7 +51,7 @@ function Header() {
               </li>
             ))}
           </ul>
-          <a href="https://wa.me/5511999999999" target="_blank" rel="noreferrer" className="btn btn-primary">
+          <a href="https://wa.me/5571999087669" target="_blank" rel="noreferrer" className="btn btn-primary">
             Simular Agora
           </a>
         </nav>
@@ -88,7 +88,7 @@ function Header() {
                 </li>
               ))}
               <li>
-                <a href="https://wa.me/5511999999999" target="_blank" rel="noreferrer" className="btn btn-primary mobile-btn">
+                <a href="https://wa.me/5571999087669" target="_blank" rel="noreferrer" className="btn btn-primary mobile-btn">
                   Simular Agora
                 </a>
               </li>

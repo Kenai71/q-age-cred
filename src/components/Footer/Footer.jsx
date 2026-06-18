@@ -36,8 +36,8 @@ function Footer() {
           <div className="footer-col">
             <h3>Contato</h3>
             <ul className="contact-list">
-              <li><Phone size={16} /> (11) 99999-9999</li>
-              <li><Mail size={16} /> contato@qagecred.com.br</li>
+              <li><Phone size={16} /> (71) 99908-7669</li>
+              <li><Mail size={16} /> grupoinvestflex26@gmail.com</li>
               <li><MapPin size={16} /> Av. Paulista, 1000 - São Paulo, SP</li>
             </ul>
           </div>
